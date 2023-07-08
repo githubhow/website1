@@ -1,2 +1,3 @@
-# website1
-html only
+# HTML only website
+feel free to add any suggestions
+*thank you*
